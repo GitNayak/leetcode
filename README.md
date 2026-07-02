@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GitNayak/leetcode/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitNayak/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
