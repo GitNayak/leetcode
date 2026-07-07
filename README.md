@@ -47,4 +47,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GitNayak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/GitNayak/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
