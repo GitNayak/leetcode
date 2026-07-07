@@ -35,6 +35,7 @@
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitNayak/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
 |  |
 | ------- |
