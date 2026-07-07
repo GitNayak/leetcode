@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GitNayak/leetcode/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/GitNayak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GitNayak/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
