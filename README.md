@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/GitNayak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitNayak/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -61,6 +62,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/GitNayak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
 |  |
