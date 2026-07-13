@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/GitNayak/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/GitNayak/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
