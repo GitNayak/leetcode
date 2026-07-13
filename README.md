@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GitNayak/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GitNayak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/GitNayak/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/GitNayak/leetcode/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GitNayak/leetcode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/GitNayak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/GitNayak/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/GitNayak/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -51,6 +53,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GitNayak/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/GitNayak/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
 ## Sorting
