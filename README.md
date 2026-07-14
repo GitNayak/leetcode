@@ -11,6 +11,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/GitNayak/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/GitNayak/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/GitNayak/leetcode/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/GitNayak/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitNayak/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/GitNayak/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Enumeration
 |  |
