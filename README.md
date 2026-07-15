@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/GitNayak/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/GitNayak/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/GitNayak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitNayak/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GitNayak/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/GitNayak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
