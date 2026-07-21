@@ -25,6 +25,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GitNayak/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/GitNayak/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/GitNayak/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/GitNayak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/GitNayak/leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/GitNayak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
