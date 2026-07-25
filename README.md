@@ -33,6 +33,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/GitNayak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/GitNayak/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GitNayak/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GitNayak/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/GitNayak/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
