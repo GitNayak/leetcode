@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GitNayak/leetcode/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/GitNayak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -55,6 +56,7 @@
 | [0283-move-zeroes](https://github.com/GitNayak/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/GitNayak/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/GitNayak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/GitNayak/leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/GitNayak/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
