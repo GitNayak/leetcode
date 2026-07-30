@@ -26,6 +26,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/GitNayak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/GitNayak/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/GitNayak/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GitNayak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GitNayak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GitNayak/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -36,6 +37,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/GitNayak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GitNayak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/GitNayak/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GitNayak/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GitNayak/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -78,6 +80,7 @@
 | [0011-container-with-most-water](https://github.com/GitNayak/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/GitNayak/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GitNayak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
