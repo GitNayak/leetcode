@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GitNayak/leetcode/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/GitNayak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/GitNayak/leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/GitNayak/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNayak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -60,6 +62,7 @@
 | [0238-product-of-array-except-self](https://github.com/GitNayak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/GitNayak/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/GitNayak/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/GitNayak/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -160,4 +163,12 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/GitNayak/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
