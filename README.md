@@ -26,6 +26,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/GitNayak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/GitNayak/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/GitNayak/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2390-removing-stars-from-a-string](https://github.com/GitNayak/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GitNayak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GitNayak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GitNayak/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -149,9 +150,14 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/GitNayak/leetcode/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/GitNayak/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/GitNayak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GitNayak/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/GitNayak/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
