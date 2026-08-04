@@ -79,6 +79,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GitNayak/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/GitNayak/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GitNayak/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/GitNayak/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/GitNayak/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/GitNayak/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GitNayak/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/GitNayak/leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
