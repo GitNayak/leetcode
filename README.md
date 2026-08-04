@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GitNayak/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/GitNayak/leetcode/tree/master/0029-divide-two-integers) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
@@ -190,4 +191,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/GitNayak/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
