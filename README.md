@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/GitNayak/leetcode/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/GitNayak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -49,6 +50,7 @@
 | [0022-generate-parentheses](https://github.com/GitNayak/leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/GitNayak/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNayak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
@@ -67,6 +69,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/GitNayak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/GitNayak/leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/GitNayak/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/GitNayak/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/GitNayak/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -178,4 +181,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
