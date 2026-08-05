@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/GitNayak/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/GitNayak/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/GitNayak/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/GitNayak/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GitNayak/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/GitNayak/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/GitNayak/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/GitNayak/leetcode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GitNayak/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
