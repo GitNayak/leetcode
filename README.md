@@ -35,6 +35,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/GitNayak/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/GitNayak/leetcode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/GitNayak/leetcode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GitNayak/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/GitNayak/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GitNayak/leetcode/tree/master/0029-divide-two-integers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/GitNayak/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
