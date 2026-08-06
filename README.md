@@ -73,6 +73,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/GitNayak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/GitNayak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/GitNayak/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/GitNayak/leetcode/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/GitNayak/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/GitNayak/leetcode/tree/master/1260-shift-2d-grid) |
@@ -166,6 +167,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/GitNayak/leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/GitNayak/leetcode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/GitNayak/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -177,6 +179,7 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/GitNayak/leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/GitNayak/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
