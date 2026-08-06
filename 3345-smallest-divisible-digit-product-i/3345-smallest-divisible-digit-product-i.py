@@ -1,6 +1,6 @@
 class Solution:
     def smallestNumber(self, n: int, t: int) -> int:
-         while True:
+        while True:
             product = 1
             num = n
 
