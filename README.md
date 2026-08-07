@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GitNayak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/GitNayak/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Database
 |  |
 | ------- |
