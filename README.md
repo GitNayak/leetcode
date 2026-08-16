@@ -44,6 +44,7 @@
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/GitNayak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GitNayak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GitNayak/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -89,6 +90,7 @@
 | [1732-find-the-highest-altitude](https://github.com/GitNayak/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GitNayak/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GitNayak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GitNayak/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3731-find-missing-elements](https://github.com/GitNayak/leetcode/tree/master/3731-find-missing-elements) |
@@ -98,6 +100,7 @@
 | [0011-container-with-most-water](https://github.com/GitNayak/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/GitNayak/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/GitNayak/leetcode/tree/master/0605-can-place-flowers) |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GitNayak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/GitNayak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GitNayak/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -199,14 +203,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -231,4 +238,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/GitNayak/leetcode/tree/master/0933-number-of-recent-calls) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
