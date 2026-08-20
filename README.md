@@ -94,6 +94,7 @@
 | [2029-stone-game-ix](https://github.com/GitNayak/leetcode/tree/master/2029-stone-game-ix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GitNayak/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/GitNayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/GitNayak/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -183,6 +184,7 @@
 | [1260-shift-2d-grid](https://github.com/GitNayak/leetcode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/GitNayak/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/GitNayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting Sort
 |  |
 | ------- |
