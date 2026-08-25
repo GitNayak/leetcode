@@ -98,6 +98,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GitNayak/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GitNayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/GitNayak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/GitNayak/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -152,6 +153,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/GitNayak/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/GitNayak/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GitNayak/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/GitNayak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/GitNayak/leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
