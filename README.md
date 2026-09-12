@@ -21,6 +21,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/GitNayak/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/GitNayak/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/GitNayak/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/GitNayak/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GitNayak/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/GitNayak/leetcode/tree/master/0392-is-subsequence) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/GitNayak/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/GitNayak/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/GitNayak/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/GitNayak/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/GitNayak/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
@@ -216,6 +218,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/GitNayak/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/GitNayak/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/GitNayak/leetcode/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GitNayak/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -299,4 +302,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/GitNayak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/GitNayak/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/GitNayak/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
