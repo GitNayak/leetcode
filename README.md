@@ -73,6 +73,7 @@
 | [0392-is-subsequence](https://github.com/GitNayak/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GitNayak/leetcode/tree/master/0877-stone-game) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNayak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GitNayak/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
@@ -289,6 +290,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/GitNayak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/GitNayak/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/GitNayak/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -296,6 +298,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/GitNayak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/GitNayak/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/GitNayak/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -308,9 +311,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/GitNayak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/GitNayak/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/GitNayak/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/GitNayak/leetcode/tree/master/0032-longest-valid-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GitNayak/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
