@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GitNayak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/GitNayak/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GitNayak/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/GitNayak/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/GitNayak/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/GitNayak/leetcode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/GitNayak/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/GitNayak/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/GitNayak/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/GitNayak/leetcode/tree/master/0486-predict-the-winner) |
