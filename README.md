@@ -103,6 +103,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitNayak/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNayak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/GitNayak/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNayak/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/GitNayak/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GitNayak/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GitNayak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/GitNayak/leetcode/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNayak/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/GitNayak/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/GitNayak/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Hash Table
@@ -169,6 +171,7 @@
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/GitNayak/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GitNayak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNayak/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GitNayak/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/GitNayak/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GitNayak/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -193,12 +196,14 @@
 | [0643-maximum-average-subarray-i](https://github.com/GitNayak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GitNayak/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GitNayak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNayak/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GitNayak/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GitNayak/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/GitNayak/leetcode/tree/master/0069-sqrtx) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GitNayak/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
